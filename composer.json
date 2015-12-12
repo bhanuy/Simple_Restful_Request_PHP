@@ -1,0 +1,12 @@
+{
+    "name": "bhanu/restful_ex1",
+    "require": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "authors": [
+        {
+            "name": "bhanu Yadav",
+            "email": "bhanu.yadav022@gmail.com"
+        }
+    ]
+}
